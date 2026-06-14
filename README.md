@@ -2,6 +2,10 @@
 
 > A fully responsive, bilingual (English & Arabic/RTL) digital agency marketing website built with modern front-end techniques, smooth animations, and SEO-optimized structure.
 
+<p align="center">
+  <img src="assets/demo.gif" alt="WebTechLo website demo" width="100%" />
+</p>
+
 ---
 
 ## About This Project
